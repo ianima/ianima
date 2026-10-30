@@ -8,6 +8,7 @@ Java Junior
 # 💻 I know:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![C](https://es.wikipedia.org/wiki/C_%28lenguaje_de_programaci%C3%B3n%29)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iAnima&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
